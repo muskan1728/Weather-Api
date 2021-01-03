@@ -1,0 +1,10 @@
+form {
+  margin-left: 70px;
+}
+form input {
+  border: 0;
+  border-bottom: 2px solid whitesmoke;
+  border-radius: 0;
+
+  color: white;
+}

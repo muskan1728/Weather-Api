@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+body {
+  background-image: url("https://i.pinimg.com/736x/7f/63/1e/7f631e577ed5e5ffbbce726f8ec03489.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
